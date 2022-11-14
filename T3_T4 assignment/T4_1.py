@@ -1,6 +1,3 @@
 my_str = "Python Coding"
-str =""
-for i in my_str:
-    str =i+str
+str =my_str[::-1]
 print("reversed string:",str)
-
