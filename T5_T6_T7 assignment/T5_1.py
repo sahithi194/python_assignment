@@ -1,0 +1,1 @@
+raise SyntaxError("Sorry, my fault!")
